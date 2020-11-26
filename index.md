@@ -9,30 +9,29 @@ order: 1
 
 ## Rationale
 
-The aim of this meeting is to gather researchers from across the Bay Area
-interested in Likelihood-Free Inference and Density Estimation for the Physical Sciences. This small-scale meeting will provide a forum to exchange problems, ideas, and techniques while leaving plenty of time for discussion and collaboration/hacking. Among the topics we would like to cover are techniques for likelihood-free and simulation-based inference, active learning/sampling, density estimation, uncertainty quantification and any applications of these techniques to problems in the physical sciences.
+The aim of this meeting is to blah. This small-scale meeting will provide a forum to exchange problems, ideas, and techniques while leaving plenty of time for discussion and collaboration/hacking. Among the topics we would like to cover are blah and any applications of these techniques to problems in the physical sciences.
 
-Registration is free but we ask you to **register before Wednesday, November 27th** at [this link](registration.html).
+Registration is free but we ask you to **register before X, 2021** at [this link](registration.html).
 
 We aim to make this meeting a collaborative and productive event, and in that spirit we invite
 participants to propose topics for discussion, hacks, or tutorials by clicking this button:
 <p align="center">
 <a href="https://github.com/LFITaskForce/BerkeleyMeeting/issues/new/choose" class="btn btn-info">Propose an afternoon session </a></p>
-Proposed sessions can be found at [this link](https://github.com/LFITaskForce/BerkeleyMeeting/issues), please comment on the proposals to indicate your interest.
+Proposed sessions can be found at [this link](https://github.com/hep-lbdl/deepmodels4physics.github.io/issues), please comment on the proposals to indicate your interest.
 
 ## Important dates
 
-- *November 18th, 2019*  : Opening registration
-- *November 26th, 2019* : Preliminary agenda available [here](schedule.html)
-- *November 27th, 2019*  : Closing registration
-- *December 2nd, 2019*  : Meeting starts at 9am at BIDS
+- *XYZ, 2021*  : Opening registration
 
 ## Organizing Committee
 
-- [ChangHoon Hahn](http://changhoonhahn.github.io/), Berkeley Center for Cosmological Physics, UC Berkeley
-- [Francois Lanusse](http://flanusse.net/), Foundation of Data Analysis Institute, UC Berkeley
-- [Phil Marshall](https://www.slac.stanford.edu/~pjm/Site/Welcome.html), Kavli Institute for Particle Astrophysics and Cosmology, Stanford University
-- [Benjamin Nachman](http://bnachman.web.cern.ch/bnachman/), Lawrence Berkeley National Laboratory
+- [Ellianna Abrahms](https://elliesch.github.io), Department of Astronomy, UC Berkeley
+- [Vanessa Boehm](https://vmboehm.github.io), Department of Physics, UC Berkeley
+- [Aishik Ghosh](https://inspirehep.net/authors/1631279), UC Irvine / Physics Division, Berkeley Lab
+- [Yue Shi Lai](https://inspirehep.net/authors/1057843), Nuclear Science Division, Berkeley Lab
+- [Mustafa Mustafa](https://www.nersc.gov/about/nersc-staff/data-analytics-services/mustafa-mustafa/), NERSC, Berkeley Lab
+- [Ben Nachman](http://bnachman.web.cern.ch/bnachman/), Physics Division, Berkeley Lab
+- [Giuseppe Puglisi](http://giuspugl.github.io), Space Science Laboratory, UC Berkeley
 
 
 ## Code of Conduct
