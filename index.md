@@ -13,7 +13,7 @@ High fidelity simulations are a foundational component of physical science resea
 
 - Applications of generative modeling to the physical sciences
 - Physics-informed models
-- Practicalities of training and inference (mode collapse, speed, staticial power, ...)
+- Practicalities of training and inference (mode collapse, generation speed, staticial power, ...)
 - Method comparisons (flows, autoencoders, GANs, ...)
 - Implicit versus explicit density models (our focus is on generation and not density estimation, but interesting to know if the latter helps with the former)
 - ...
@@ -23,7 +23,7 @@ Registration is free but we ask you to please register at [this link](registrati
 We aim to make this meeting a collaborative and productive event, and in that spirit we invite
 participants to propose topics for discussion by clicking this button:
 <p align="center">
-<a href="https://github.com/hep-lbdl/deepmodels4physics.github.io/issues/new/choose" class="btn btn-info">Propose an afternoon session </a></p>
+<a href="https://github.com/hep-lbdl/deepmodels4physics.github.io/issues/new/choose" class="btn btn-info">Propose discussion topic</a></p>
 Proposed sessions can be found at [this link](https://github.com/hep-lbdl/deepmodels4physics.github.io/issues), please comment on the proposals to indicate your interest.
 
 ## Important dates
