@@ -16,7 +16,7 @@
 title: Berkeley Deep Generative Models for Physical Sciences Meeting
 email: bpnachman@lbl.gov
 description: >- # this means to ignore newlines until "baseurl:"
-  2021 @ Berkeley Institute for Data Science
+  Berkeley Institute for Data Science, March 17, 2021
 baseurl: "/deepmodels4physics.github.io" # the subpath of your site, e.g. /blog
 url: "https://hep-lbdl.github.io/deepmodels4physics.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: deepmodels4physics
