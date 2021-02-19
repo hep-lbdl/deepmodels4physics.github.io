@@ -9,9 +9,9 @@ order: 1
 
 ## Rationale
 
-High fidelity simulations are a foundational component of physical science research.  However, these simulations are often too slow or are limited in key ways.  As a result, deep generative models have shown great promise for replacing or augmenting various aspects of data analysis in the physical sciences.  In the spirit of the likelihood-free inference workshop held about a year ago at the [Berkeley Institute for Data Science (BIDS)](https://bids.berkeley.edu), we are gathering (virtually) at BIDS for an afternoon to exchange problems, ideas, and techniques in the area of deep generative modeling for the physical sciences.  Here is an incomplete list of topics we would like to cover:
+High fidelity simulations are a foundational component of fundamental physics (particle physics, nuclear physics, astrophysics, cosmology) research.  However, these simulations are often too slow or are limited in key ways.  As a result, deep generative models have shown great promise for replacing or augmenting various aspects of data analysis in fundamental physics.  In the spirit of the likelihood-free inference workshop held about a year ago at the [Berkeley Institute for Data Science (BIDS)](https://bids.berkeley.edu), we are gathering (virtually) at BIDS for an afternoon to exchange problems, ideas, and techniques in the area of deep generative modeling for fundamental physics (co-hosted with the [ML group in the Physics Division at Berkeley Lab](https://www.physics.lbl.gov/machinelearning/)).  Here is an incomplete list of topics we would like to cover:
 
-- Applications of generative modeling to the physical sciences
+- Applications of generative modeling to fundamental physics
 - Physics-informed models
 - Practicalities of training and inference (mode collapse, generation speed, staticial power, ...)
 - Method comparisons (flows, autoencoders, GANs, ...)
