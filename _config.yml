@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Berkeley Deep Generative Models for Physical Sciences Meeting
+title: Berkeley Deep Generative Models for Fundamental Physics Meeting
 email: bpnachman@lbl.gov
 description: >- # this means to ignore newlines until "baseurl:"
   Berkeley Institute for Data Science, March 17, 2021
