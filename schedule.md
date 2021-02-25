@@ -12,9 +12,9 @@ order: 2
 - 1:10-1:30: Motivational introduction
 - 1:30-1:50: 15'+5' Talk, TBD
 - 1:50-2:10: 15'+5' Talk, TBD
-- 2:10-2:30: 15'+5' Talk (CMB), Speaker: Ben Thorne, Title: TBD
+- 2:10-2:30: 15'+5' Talk (CMB), Speaker: Ben Thorne (UC Davis), Title: TBD
 - 2:30-2:50: 20' break
-- 2:50-3:10: 15'+5' Talk (Cosmology), Speaker: Biwei Dai, Title: TBD
+- 2:50-3:10: 15'+5' Talk (Cosmology), Speaker: Biwei Dai (UC Berkeley), Title: TBD
 - 3:10-3:30: 15'+5' Talk, TBD
 - 3:30-3:50: 15'+5' Talk, TBD
 - 3:50-4:10: 20' break
