@@ -11,7 +11,7 @@ order: 2
 - 1:00-1:10: Brief introduction from organizers
 - 1:10-1:30: Motivational introduction
 - 1:30-1:50: 15'+5' Talk (Colliders), Speaker: Raghav Kansal (UCSD), Title: TBD
-- 1:50-2:10: 15'+5' Talk, TBD
+- 1:50-2:10: 15'+5' Talk (Nuclear Physics), Speaker: Felix Ringer (LBNL), Title: TBD
 - 2:10-2:30: 15'+5' Talk (CMB), Speaker: Ben Thorne (UC Davis), Title: TBD
 - 2:30-2:50: 20' break
 - 2:50-3:10: 15'+5' Talk (Cosmology), Speaker: Biwei Dai (UC Berkeley), Title: TBD
