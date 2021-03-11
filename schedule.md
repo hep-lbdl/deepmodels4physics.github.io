@@ -14,7 +14,7 @@ order: 2
 - 1:50-2:10: 15'+5' Talk (Nuclear Physics), Speaker: Felix Ringer (LBNL), Title: TBD
 - 2:10-2:30: 15'+5' Talk (CMB), Speaker: Ben Thorne (UC Davis), Title: TBD
 - 2:30-2:50: 20' break
-- 2:50-3:10: 15'+5' Talk (Cosmology), Speaker: Biwei Dai (UC Berkeley), Title: TBD
+- 2:50-3:10: 15'+5' Talk (Cosmology), Speaker: Biwei Dai (UC Berkeley), Title: Normalizing Flows for data with Translational and Rotational Symmetry
 - 3:10-3:30: 15'+5' Talk (Astronomy), Speaker: Jorge Martinez-Palomera ([BAERI](https://baeri.org)), Title: Deep Generative Modeling of Periodic Variable Stars Using Physical Parameters
 - 3:30-3:50: 15'+5' Talk, TBD
 - 3:50-4:10: 20' break
