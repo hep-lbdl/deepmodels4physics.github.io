@@ -9,7 +9,7 @@ order: 2
 ## Wednesday, March 17, 2021, 1 PM - 5 PM PDT
 
 - 1:00-1:20: Introduction
-- 1:20-1:40: 15'+5' Talk (Colliders), Speaker: Raghav Kansal (UCSD), Title: TBD
+- 1:20-1:40: 15'+5' Talk (Colliders), Speaker: Raghav Kansal (UCSD), Title: Graph Generative Adversarial Networks for High Energy Physics Data Generation
 - 1:40-2:00: 15'+5' Talk (Nuclear Physics), Speaker: Felix Ringer (LBNL), Title: TBD
 - 2:00-2:20: 15'+5' Talk (CMB), Speaker: Ben Thorne (UC Davis), Title: TBD
 - 2:20-2:40: 20' break
