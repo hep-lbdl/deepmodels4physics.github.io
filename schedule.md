@@ -15,7 +15,7 @@ order: 2
 - 2:20-2:40: 20' break
 - 2:40-3:00: 15'+5' Talk (Cosmology), Speaker: Biwei Dai (UC Berkeley), Title: Normalizing Flows for data with Translational and Rotational Symmetry
 - 3:00-3:20: 15'+5' Talk (Astronomy), Speaker: Jorge Martinez-Palomera ([BAERI](https://baeri.org)), Title: Deep Generative Modeling of Periodic Variable Stars Using Physical Parameters
-- 3:20-3:40: 15'+5' Talk (Astrophysics), Speaker: Davis Shih (Rutgers / LBNL), Title: TBD
+- 3:20-3:40: 15'+5' Talk (Astrophysics), Speaker: David Shih (Rutgers / LBNL), Title: Via Machinae: Discovering Stellar Streams and Modeling the Galaxy with Normalizing Flows
 - 3:40-4:00: 15'+5' Talk, (CMB), Speaker: Ben Thorne (UC Davis), Title: A Generative Model of Galactic Dust Emission Using Variational Inference
 - 4:00-4:15: 15' break
 - 4:15-5:00: Moderated discussion
