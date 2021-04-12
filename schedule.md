@@ -8,6 +8,8 @@ order: 2
 
 ## Wednesday, March 17, 2021, 1 PM - 5 PM PDT
 
+A recording of the event can be found [[here]](https://bids.berkeley.edu/events/deep-generative-models-fundamental-physics).
+
 - 1:00-1:20: Introduction [[slides]](talks/GenerativeModelsWorkshopSpring2021.pdf)
 - 1:20-1:40: 15'+5' Talk (Colliders), Speaker: **Raghav Kansal (UCSD)**, Title: Graph Generative Adversarial Networks for High Energy Physics Data Generation [[slides]](talks/GraphGANsforHighEnergyPhysicsDataGeneration.pdf)
 - 1:40-2:00: 15'+5' Talk (Nuclear Physics), Speaker: **Felix Ringer (LBNL)**, Title: GANs for parton shower development [[slides]](talks/BerkeleyML21_FRinger.pdf)
